@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187458939628",
+    "project_id": "speakeasy-16045",
+    "storage_bucket": "speakeasy-16045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187458939628:android:de681a2632ca3f66a293c9",
+        "android_client_info": {
+          "package_name": "com.example.speakeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZOnaa-BgIxGsHETRavnRzXOtiij1L94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+timestamp,user_text,corrected_text,fluency_score,filler_count,response_time_ms,filler_words
+2026-04-17T12:58:47.471101,I like um the food here,,84.0,2,0,um;like
+2026-04-17T12:58:47.482573,I like um the food here,I like um the food here,84.0,6,1.2660026550292969,That's really interesting! How did that make you f
+2026-04-17T13:01:28.296112,I like um the food here,,84.0,2,0,um;like
+2026-04-17T13:01:28.306259,I like um the food here,I the food here.,84.0,6,1.4767646789550781,I see what you mean. Have you considered looking a
+2026-04-17T13:02:44.330396,I like um the food here,,84.0,2,0,um;like
+2026-04-17T13:02:44.341063,I like um the food here,I like um the food here,84.0,6,1.7688274383544922,That's great! I love your enthusiasm. Could you te
+2026-04-17T13:03:32.447188,I like um the food here,I like the food here.,84.0,6,2.5348663330078125,That's really interesting! How did that make you f
+2026-04-17T13:03:32.455422,I like um the food here,,84.0,2,0,like;um
+2026-04-17T13:10:47.428895,u1,s1,I like um speaking here,I like speaking here.,84.0,2,0.0,0.0,2.6366710662841797,That's great! I love your enthusiasm. Could you te
+2026-04-17T14:58:56.082893,local-1776437913101,1776437928293,How are you?,How are you?,100.0,0,0.0,0.0,6.744146347045898,Perfect! You're doing really well. What happened n
+2026-04-17T14:59:21.053269,local-1776437913101,1776437928293,I went to the market yesterday,I went to the market yesterday.,100.0,0,0.0,0.0,0.6208419799804688,That's great! I love your enthusiasm. Could you te
+2026-04-17T15:09:51.582020,local-1776438582396,1776438584935,I am so tired,I am so tired.,90.0,0,0.0,0.0,2.6221275329589844,I see what you mean. Have you considered looking a
+2026-04-17T15:10:20.736491,local-1776438582396,1776438584935,"i ummm well, i dont know","i ummm well, i dont know.",97.0,0,0.0,0.0,0.32019615173339844,Excellent point! That's a very natural way to expr
+2026-04-17T15:11:04.549977,local-1776438582396,1776438584935,i..umm...uhh,i..umm...uhh.,87.0,0,0.0,0.0,0.3437995910644531,That's great! I love your enthusiasm. Could you te
+2026-04-17T15:56:23.555114,local-1776441308786,1776441311639,ummm i ehh went to the market yesterday,ummm i ehh went to the market yesterday.,100.0,0,0.0,0.0,2385.5371475219727,That's great! I love your enthusiasm. Could you te
+2026-04-17T15:57:42.042174,local-1776441308786,1776441311639,"i bought ummmm fruits, vegetables and umm paid money","i bought ummmm fruits, vegetables and umm paid money.",97.0,0,0.0,0.0,425.3227710723877,Perfect! You're doing really well. What happened n
+2026-04-17T15:58:16.114805,local-1776441308786,1776441311639,my mother scolded me,my mother scolded me.,90.0,0,0.0,0.0,168.77436637878418,That's great! I love your enthusiasm. Could you te
