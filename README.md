@@ -1,6 +1,6 @@
-# SPEAKEASY
+# Fluentflow AI
 
-SPEAKEASY is a full-stack English fluency assistant with:
+Fluentflow AI is a full-stack English fluency assistant with:
 - A Flutter client app in `app/`
 - A FastAPI backend in `backend/`
 - Local runtime data and logs in `data/`
@@ -10,7 +10,7 @@ The system supports conversation coaching, fluency analysis, speech workflows, a
 ## Project Structure
 
 ```
-SPEAKEASY/
+Fluentflow AI/
 ├── app/                  # Flutter mobile/web/desktop client
 ├── backend/              # FastAPI service and AI logic
 ├── data/                 # Runtime data (SQLite, logs, exports)
